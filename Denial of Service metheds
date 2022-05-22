@@ -23,3 +23,13 @@ Either obtain Kail Linux to use terminal or download debain from windows store u
 windows features turn on or off, enable windows subconsole kail linux envirment. Ill add a screen shot in the folder of this file to help you know what to look for
 
 
+git clone https://github.com/MatrixTM/MHDDoS.git
+cd MHDDoS
+pip install -r requirements.txt
+
+open up terminal examples being kail linux cygwin cmd powershell termix list goes on
+Once the requrements are installed you can now enter the command ./start.py (ip) (port)
+Example ./start.py 192.168.0.1 23
+
+
+
