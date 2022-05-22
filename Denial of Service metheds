@@ -1,1 +1,25 @@
+Denial of Service Metheds (DDOS) 
+
+DDOS - denial of Service attacks are preformed with little to no effort, Simple to clone setup and run you can flood someones ip with large ammounts of packets to
+result in a nasty halt to the targets wifi. Wither you have selected someone to boot offline on xbox or playstion. Or you think about getting back at someone 
+online were every you may be on the internet interacting with whom ever. Maybe he or she broke the last straw and your fed up and you want to make them disapear. :)
+For what ever it may be please concider the law in mind and take in to concideration that you may want to think twice about doing some methed thats againest the law.
+You are your own persion and i have have no resounsbilty twords such act you may preform that could be brakeing the law. With that out of the way lets setup our envierment
+to preform ethical hacking of coruse and given premission. For edacational reasions only.
+
+Common know attack is a DDOS attack, you may have herd someone you know metion it or know someone that may know about it. DDOS is level 1 layer of how leathal i think 
+and the most harmless and other metheds that have been published have been improved much more. But lets start simple, ill show you how to setup your own DDOS tool so you can 
+preform this attack. Befor i explain to you please understand the methed of comucation you use dose matter. Example useing TCP trusted commcation protcal like https
+this is encripted and sucre. UPD is like http, like a unprotected website this commcation protcal is unprotected too, and not incyipted. No keys are swaped to preform data
+or private information from being posablty leaked. Also knowing your port number thats common more or less the default port the device runs un will preform a more effect
+DDOS attack, Xbox for example is 3070 is defalt port, and now all i need is to obtain the ip of the victim. But we will save that for another time. i do want to add 
+that there are some application for windows you can download and execute them by opening them up like any exe file and no mess is needed for any noobies out there
+Applcations like LORC CANNION, UPD UNCION, list goes on. ill do my best to give you the proper resorces that i used to download and obtain theses applcations or clone 
+
+
+Application Level Attacks (1)
+Were gonna clone this methed from github and open the programing in a tremnial thats emulated to run these kind of files 
+Either obtain Kail Linux to use terminal or download debain from windows store under devloper tools, i will add you will have to open up control pannal and open 
+windows features turn on or off, enable windows subconsole kail linux envirment. Ill add a screen shot in the folder of this file to help you know what to look for
+
 
